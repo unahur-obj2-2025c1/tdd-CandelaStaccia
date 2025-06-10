@@ -1,0 +1,10 @@
+NOTAS
+
+escenario 1: caja abierta al inicio
+
+Dado que la caja fuerte ha sido recién creada, entonces
+debe estar en estado abierto. (criterio de aceptación)
+
+
+BDD - desarrollo guiado por comportamiento --> criterios de aceptación (Given-When-Then)
+TDD --> código
